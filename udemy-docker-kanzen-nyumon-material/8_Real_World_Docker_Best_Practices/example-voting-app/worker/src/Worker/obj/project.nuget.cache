@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "E+bIrqvhJKFd5wVgV4femNVBlKMWIoF5qITuGRMwcz1E2eESquFNlvq7a35/IO28YHFCF+ayfVM2rzjoPAhlFA==",
+  "success": true,
+  "projectFilePath": "C:\\dev\\8_Real_World_Docker_Best_Practices\\example-voting-app\\worker\\src\\Worker\\Worker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kiyot\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\kiyot\\.nuget\\packages\\npgsql\\7.0.2\\npgsql.7.0.2.nupkg.sha512",
+    "C:\\Users\\kiyot\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.2\\pipelines.sockets.unofficial.2.2.2.nupkg.sha512",
+    "C:\\Users\\kiyot\\.nuget\\packages\\stackexchange.redis\\2.6.96\\stackexchange.redis.2.6.96.nupkg.sha512",
+    "C:\\Users\\kiyot\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512",
+    "C:\\Users\\kiyot\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

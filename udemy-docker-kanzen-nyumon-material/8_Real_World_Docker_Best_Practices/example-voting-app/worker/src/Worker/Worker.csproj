@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+    <AssemblyName>Worker</AssemblyName>
+    <OutputType>Exe</OutputType>
+    <PackageId>Worker</PackageId>
+    <ServerGarbageCollection>true</ServerGarbageCollection>
+    <StartupObject>Worker.Program</StartupObject>
+    
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="StackExchange.Redis" Version="2.6.96" />
+    <PackageReference Include="Npgsql" Version="7.0.2" />
+  </ItemGroup>
+
+</Project>

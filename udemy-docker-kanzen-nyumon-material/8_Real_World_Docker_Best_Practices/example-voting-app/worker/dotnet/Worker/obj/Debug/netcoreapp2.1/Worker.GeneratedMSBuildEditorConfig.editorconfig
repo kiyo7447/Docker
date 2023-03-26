@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Worker
+build_property.ProjectDir = C:\dev\8_Real_World_Docker_Best_Practices\example-voting-app\worker\dotnet\Worker\

@@ -1,0 +1,26 @@
+{
+  "SerializedFilePath": "c:\\dev\\GitHub\\Docker\\udemy-docker-kanzen-nyumon-material\\8_Real_World_Docker_Best_Practices\\example-voting-app\\result\\dotnet\\Result\\obj\\Debug\\netcoreapp2.1\\project.razor.json",
+  "FilePath": "c:\\dev\\GitHub\\Docker\\udemy-docker-kanzen-nyumon-material\\8_Real_World_Docker_Best_Practices\\example-voting-app\\result\\dotnet\\Result\\Result.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-2.1",
+    "LanguageVersion": "2.1",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-2.1"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 703
+  },
+  "RootNamespace": "Result",
+  "Documents": [
+    {
+      "FilePath": "c:\\dev\\GitHub\\Docker\\udemy-docker-kanzen-nyumon-material\\8_Real_World_Docker_Best_Practices\\example-voting-app\\result\\dotnet\\Result\\Pages\\Index.cshtml",
+      "TargetPath": "Pages\\Index.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
+  "SerializationFormat": "0.3"
+}
